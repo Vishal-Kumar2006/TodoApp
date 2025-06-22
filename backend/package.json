@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^24.2.0"
+  },
+
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
